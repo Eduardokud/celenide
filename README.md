@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/2m1fucbint4ires4?svg=true)](https://ci.appveyor.com/project/Eduardokud/selenium)
+[![Build status](https://ci.appveyor.com/api/projects/status/7yp5ndlhqmj34rai?svg=true)](https://ci.appveyor.com/project/Eduardokud/celenide)
